@@ -10,3 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel112)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/angel112/angel112/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
